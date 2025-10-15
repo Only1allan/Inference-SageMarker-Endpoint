@@ -225,9 +225,3 @@ This project is designed for learning and experimentation. Feel free to:
 ## License
 
 This project is licensed under the MIT License. The Falcon model itself is licensed under Apache 2.0.
-
----
-
-**Happy Learning! 🚀**
-
-*Built with ❤️ for AWS Machine Learning education*
